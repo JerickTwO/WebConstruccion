@@ -1,1 +1,1 @@
-web: python manage.py collectstatic gunicorn django_project_wsgi
+web: python manage.py collectstatic gunicorn WebConstruccion_wsgi
